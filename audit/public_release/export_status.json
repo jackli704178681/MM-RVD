@@ -14,7 +14,7 @@
   "gh_version_output": "gh not found",
   "gh_auth_status": 127,
   "gh_auth_output": "gh not found",
-  "github_upload_status": "BLOCKED_GH_CLI_NOT_AVAILABLE",
+  "github_upload_status": "SUCCESS",
   "local_git_status": "INITIALIZED",
   "git_init_output": "Initialized empty Git repository in <PUBLIC_REPOSITORY_ROOT>/.git/",
   "git_status_short": "?? .gitignore\n?? CITATION.cff\n?? LICENSE_PENDING.txt\n?? README.md\n?? audit/\n?? checksums/\n?? configs/\n?? docs/\n?? environment/\n?? manifests/\n?? results/\n?? scripts/\n?? source_data/\n?? src/\n",
@@ -22,10 +22,14 @@
   "raw_dataset_found": false,
   "manuscript_found": false,
   "credential_findings": 0,
-  "local_git_commit_sha": "eed973d852c82cef7233f155d8cfe2b7bfc7a1dc",
-  "local_git_worktree_clean_after_commit": true,
-  "git_status_short_after_commit": "",
+  "local_git_commit_sha": "9c9f94055e39bdcc0bb1fd8190295efad71e07b0",
+  "local_git_worktree_clean_after_commit": false,
+  "git_status_short_after_commit": "METADATA_UPDATED_PENDING_COMMIT",
   "updated_after_local_commit_at": "2026-09-04T08:47:34Z",
   "baseline_dependency_closure": "PASS",
-  "baseline_implementation_presence_case": "CASE_1_AFTER_FIX"
+  "baseline_implementation_presence_case": "CASE_1_AFTER_FIX",
+  "remote_repository": "https://github.com/jackli704178681/MM-RVD",
+  "remote_branch": "submission-reproducibility-20260904",
+  "remote_commit_sha": "9c9f94055e39bdcc0bb1fd8190295efad71e07b0",
+  "updated_after_baseline_dependency_closure_at": "2026-09-04T12:59:27Z"
 }
