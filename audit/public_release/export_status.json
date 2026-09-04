@@ -21,5 +21,9 @@
   "over_50mb_count": 0,
   "raw_dataset_found": false,
   "manuscript_found": false,
-  "credential_findings": 0
+  "credential_findings": 0,
+  "local_git_commit_sha": "eed973d852c82cef7233f155d8cfe2b7bfc7a1dc",
+  "local_git_worktree_clean_after_commit": true,
+  "git_status_short_after_commit": "",
+  "updated_after_local_commit_at": "2026-09-04T08:47:34Z"
 }

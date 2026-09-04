@@ -75,3 +75,10 @@ Generated: 2026-09-04T08:39:25.899717+00:00
 - Manuscript DOI: pending
 - Repository archival release: pending
 - Final public/main merge: pending
+## Local Git Finalization
+
+- Local commit SHA: `eed973d852c82cef7233f155d8cfe2b7bfc7a1dc`
+- Worktree clean after commit: `true`
+- GitHub upload status: `BLOCKED_GH_CLI_NOT_AVAILABLE`
+- Remote push attempted: `false`
+
