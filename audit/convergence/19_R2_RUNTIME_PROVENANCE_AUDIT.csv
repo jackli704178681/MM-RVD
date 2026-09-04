@@ -1,0 +1,16 @@
+﻿check,status,pass
+runtime_optimization_decision,RUNTIME_OPTIMIZATION_PASSED_READY_TO_RESUME,True
+validation_only_equivalence,PASS,True
+shadow_training_equivalence,PASS,True
+selector_equivalence,PASS,True
+heldout_firewall,PASS,True
+original_executor_complete_jobs,67,True
+optimized_executor_complete_jobs,273,True
+scientific_protocol_modified,False,True
+training_updates_modified,False,True
+validation_states_modified,False,True
+selection_rule_modified,False,True
+splits_modified,False,True
+mask_bank_modified,False,True
+seeds_modified,False,True
+heldout_modified,False,True

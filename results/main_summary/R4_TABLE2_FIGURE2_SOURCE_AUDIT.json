@@ -1,0 +1,10 @@
+{
+  "table2_models": 7,
+  "table2_datasets": 2,
+  "table2_endpoints": 8,
+  "GPFA_present": false,
+  "figure2_models": 7,
+  "dataset_level_cells": 112,
+  "animal_level_unit": "animal",
+  "status": "PASS"
+}

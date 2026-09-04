@@ -1,0 +1,10 @@
+Python 3.10.20
+PyTorch 2.5.1
+CUDA 12.4
+scikit-learn 1.7.2
+CEBRA 0.6.1
+OS: Windows 11 Professional 64-bit
+CPU: Intel Core i7-14700KF
+RAM: 128 GB
+GPU: NVIDIA GeForce RTX 4070 Ti SUPER
+GPU memory: 16 GB

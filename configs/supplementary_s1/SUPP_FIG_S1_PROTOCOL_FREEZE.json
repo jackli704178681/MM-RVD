@@ -1,0 +1,58 @@
+{
+  "experiment_name": "MMRVD_SUPPLEMENTARY_FIGURE_S1_SEVERITY_SWEEP",
+  "experiment_type": "POST_FREEZE_SUPPLEMENTARY_STRESS_TEST",
+  "created_at": "2026-09-03T13:33:07.924519+00:00",
+  "datasets": [
+    "Allen VBN",
+    "CRCNS pvc-11"
+  ],
+  "models": {
+    "Allen VBN": [
+      "MM-RVD",
+      "SVM"
+    ],
+    "CRCNS pvc-11": [
+      "MM-RVD",
+      "CEBRA"
+    ]
+  },
+  "strongest_baseline": {
+    "Allen VBN": "SVM",
+    "CRCNS pvc-11": "CEBRA"
+  },
+  "unit_missing_severity": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5
+  ],
+  "temporal_missing_bins": [
+    2,
+    3,
+    5,
+    7,
+    10
+  ],
+  "temporal_missing_ms": [
+    40,
+    60,
+    100,
+    140,
+    200
+  ],
+  "mask_replicates": 5,
+  "metric": "CN-BalAcc",
+  "aggregation": "mask replicate -> model seed if applicable -> session -> animal -> dataset",
+  "Allen_animal_n": 12,
+  "CRCNS_animal_n": 3,
+  "Allen_bootstrap_resamples": 10000,
+  "Allen_bootstrap_seed": 20260902,
+  "Allen_inference_mode": "ANIMAL_BOOTSTRAP_10000",
+  "CRCNS_inference_mode": "DESCRIPTIVE_SMALL_N",
+  "anchor_unit": "30 percent = formal U30",
+  "anchor_temporal": "5 bins / 100 ms = formal T5",
+  "CLEAN_source": "R4 frozen result",
+  "heldout_usage": "FINAL_METRIC_ONLY",
+  "validation_usage": "NO_NEW_SELECTION"
+}

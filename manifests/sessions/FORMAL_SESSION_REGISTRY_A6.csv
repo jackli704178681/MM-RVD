@@ -1,0 +1,18 @@
+dataset,session_id,animal_id,n_units,n_trials_total,FIT_n,INNER_n,SCREENING_n,included,source_artifact
+Allen Visual Behavior Neuropixels,1069458330,544837,1318,9266,5558,1852,1856,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1069458330
+Allen Visual Behavior Neuropixels,1072567062,546507,1311,9246,5544,1846,1856,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1072567062
+Allen Visual Behavior Neuropixels,1104289498,563497,1103,9280,5565,1853,1862,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1104289498
+Allen Visual Behavior Neuropixels,1104058216,563497,1405,9268,5557,1851,1860,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1104058216
+Allen Visual Behavior Neuropixels,1105798776,567286,1281,9308,5582,1859,1867,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1105798776
+Allen Visual Behavior Neuropixels,1108531612,570301,1344,9196,5515,1836,1845,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1108531612
+Allen Visual Behavior Neuropixels,1044016459,506940,2365,9246,5544,1846,1856,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1044016459
+Allen Visual Behavior Neuropixels,1044385384,524761,2179,9284,5568,1854,1862,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1044385384
+Allen Visual Behavior Neuropixels,1044389060,510589,1645,9266,5557,1850,1859,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1044389060
+Allen Visual Behavior Neuropixels,1044594870,524761,2103,9280,5565,1853,1862,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1044594870
+Allen Visual Behavior Neuropixels,1049514117,521466,1925,9294,5572,1855,1867,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1049514117
+Allen Visual Behavior Neuropixels,1051155866,524760,1922,9250,5547,1845,1858,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1051155866
+Allen Visual Behavior Neuropixels,1053718935,527749,2508,9268,5558,1851,1859,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1053718935
+Allen Visual Behavior Neuropixels,1056495334,531237,2744,9242,5542,1845,1855,True,E:\ENTO_code_workspace\cache\schemeA_rvd_d48_favorable20\sessions\1056495334
+CRCNS pvc-11,data_monkey1_gratings,monkey1,106,1600,960,320,320,True,E:\ENTO_code_workspace\mm_rvd_v1\dataset_expansion_v1\crcns_pvc11_cache\data_monkey1_gratings
+CRCNS pvc-11,data_monkey2_gratings,monkey2,88,1600,960,320,320,True,E:\ENTO_code_workspace\mm_rvd_v1\dataset_expansion_v1\crcns_pvc11_cache\data_monkey2_gratings
+CRCNS pvc-11,data_monkey3_gratings,monkey3,112,1600,960,320,320,True,E:\ENTO_code_workspace\mm_rvd_v1\dataset_expansion_v1\crcns_pvc11_cache\data_monkey3_gratings
