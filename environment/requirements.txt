@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+scikit-learn==1.7.2
+torch==2.5.1
+cebra==0.6.1
+matplotlib
+seaborn

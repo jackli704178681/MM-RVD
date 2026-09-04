@@ -1,0 +1,35 @@
+# Supplementary Figure S1 Pipeline Audit
+
+- models_modified: NO
+- MMRVD_retrained: NO
+- SVM_retrained: NO
+- CEBRA_retrained: NO
+- SVM_refit: NO
+- CEBRA_downstream_refit: NO
+- checkpoint_reselected: NO
+- strongest_baseline_reselected: NO
+- split_modified: NO
+- validation_used_for_severity_selection: NO
+- heldout_used_for_model_selection: NO
+- heldout_labels_only_for_metric: YES
+- U30_reused_formal_masks: YES
+- T5_reused_formal_masks: YES
+- U30_anchor_replay: PASS
+- T5_anchor_replay: PASS
+- aggregation: mask -> seed -> session -> animal -> dataset
+- Allen_biological_n: 12
+- CRCNS_biological_n: 3
+- Allen_bootstrap: 10000 animal-level resamples
+- CRCNS_inference: DESCRIPTIVE_SMALL_N
+- NaN: False
+- Inf: False
+- OOM: NO
+- FAILED_jobs: 0
+- retry: NO
+- existing_results_overwritten: NO
+- DOCX_modified: NO
+- Figure_1_3_modified: NO
+- Table_1_3_modified: NO
+- Supplementary_Table_S1_S5_modified: NO
+- nonmonotonic_severity_results_preserved: YES
+- pipeline_discrepancy: NO

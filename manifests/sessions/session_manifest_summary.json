@@ -1,0 +1,27 @@
+{
+  "allen_vbn_session_count": 14,
+  "crcns_pvc11_session_count": 3,
+  "allen_vbn_sessions": [
+    "1069458330",
+    "1072567062",
+    "1104058216",
+    "1104289498",
+    "1105798776",
+    "1108531612",
+    "1044016459",
+    "1044385384",
+    "1044389060",
+    "1044594870",
+    "1049514117",
+    "1051155866",
+    "1053718935",
+    "1056495334"
+  ],
+  "crcns_pvc11_sessions": [
+    "data_monkey1_gratings",
+    "data_monkey2_gratings",
+    "data_monkey3_gratings"
+  ],
+  "source": "<PROJECT_ROOT>\\unified_17_session_authentic_rerun_a6_20260808_185006\\01_design_freeze\\FORMAL_SESSION_REGISTRY_A6.csv",
+  "source_sha256": "dc3ac5a8655ec09dbb8b496a07f64e0e04ae579674df557ea5cba4936f648361"
+}

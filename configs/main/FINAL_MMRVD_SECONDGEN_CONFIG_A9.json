@@ -1,0 +1,8 @@
+{
+  "model_id": "MM_RVD_A9_SELECTED",
+  "selected_candidate": "R6",
+  "k_base": 128,
+  "k_temporal": 256,
+  "selection_source": "FIT_INNER_ONLY",
+  "A7S_SCREENING_used": false
+}

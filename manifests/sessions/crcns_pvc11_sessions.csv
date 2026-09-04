@@ -1,0 +1,4 @@
+﻿dataset_public,session_id,animal_id,n_units
+CRCNS pvc-11,data_monkey1_gratings,monkey1,106
+CRCNS pvc-11,data_monkey2_gratings,monkey2,88
+CRCNS pvc-11,data_monkey3_gratings,monkey3,112
