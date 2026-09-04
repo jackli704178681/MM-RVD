@@ -1,0 +1,19 @@
+﻿item,value,verification_status,evidence_source,notes
+OS,win32,VERIFIED,retrospective benchmark environment log,operating-system family only; full Windows build not recorded in experiment logs
+Python main environment,3.14.2,VERIFIED,baseline and development environment logs,used for main sklearn/PyTorch/CEBRA/MM-RVD runs
+Python GPFA environment,3.10.10,VERIFIED,isolated GPFA environment probe,read-only probe of saved environment
+NumPy main environment,2.4.3,VERIFIED,development environment log,main MM-RVD/development logs
+pandas main environment,2.3.3,VERIFIED,development environment log,main MM-RVD/development logs
+scikit-learn main environment,1.8.0,VERIFIED,development/retrospective benchmark environment log,main sklearn pipeline
+PyTorch main environment,2.10.0+cu130,VERIFIED,baseline environment matrix,baseline neural models
+CUDA availability,available,VERIFIED,baseline environment matrix,exact GPU model not recorded in experiment environment files
+CUDA version,PyTorch build cu130,VERIFIED,baseline environment matrix,"reported via PyTorch build string, not full driver log"
+cuDNN,UNRESOLVED,UNRESOLVED,no experiment log found,not filled from current audit runtime
+CEBRA,0.6.0,VERIFIED,baseline environment matrix,CEBRA baseline
+Elephant,1.2.1,VERIFIED,isolated GPFA environment probe,GPFA baseline
+neo,0.14.5,VERIFIED,isolated GPFA environment probe,GPFA dependency
+quantities,0.16.4,VERIFIED,isolated GPFA environment probe,GPFA dependency
+CPU,UNRESOLVED,UNRESOLVED,no experiment log found,not filled from current audit runtime
+RAM,UNRESOLVED,UNRESOLVED,no experiment log found,not filled from current audit runtime
+GPU,UNRESOLVED,UNRESOLVED,no experiment log found,not filled from current audit runtime
+GPU memory,UNRESOLVED,UNRESOLVED,no experiment log found,not filled from current audit runtime

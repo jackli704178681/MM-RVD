@@ -1,0 +1,16 @@
+name: mm-rvd
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10.20
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn=1.7.2
+  - matplotlib
+  - seaborn
+  - pip
+  - pip:
+      - torch==2.5.1
+      - cebra==0.6.1

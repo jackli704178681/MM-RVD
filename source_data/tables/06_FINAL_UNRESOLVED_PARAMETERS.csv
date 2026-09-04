@@ -1,0 +1,10 @@
+﻿table,model_or_scope,parameter,reason,recommended_action
+S2,GPFA,GPFA tolerance,Elephant GPFA fitted metadata and worker code record EM max iterations but no explicit tolerance value,Leave as UNRESOLVED unless original experiment metadata is found
+S2,CEBRA,explicit CEBRA random state,CEBRA object/config did not record an explicit random_state field,Leave as UNRESOLVED unless original experiment metadata is found
+S2,CEBRA,gradient clipping,No CEBRA gradient clipping setting recorded in config or fitted object,Leave as UNRESOLVED unless original experiment metadata is found
+S2,CEBRA,dropout,No dropout parameter exposed in recorded CEBRA configuration,Leave as UNRESOLVED unless original experiment metadata is found
+S5,experiment hardware,CPU,No formal experiment environment log with CPU model found,Leave as UNRESOLVED unless original experiment metadata is found
+S5,experiment hardware,RAM,No formal experiment environment log with system memory found,Leave as UNRESOLVED unless original experiment metadata is found
+S5,experiment hardware,GPU,No formal experiment environment log with GPU model found,Leave as UNRESOLVED unless original experiment metadata is found
+S5,experiment hardware,GPU memory,No formal experiment environment log with GPU memory found,Leave as UNRESOLVED unless original experiment metadata is found
+S5,experiment software,cuDNN,No formal experiment environment log with cuDNN version found,Leave as UNRESOLVED unless original experiment metadata is found
