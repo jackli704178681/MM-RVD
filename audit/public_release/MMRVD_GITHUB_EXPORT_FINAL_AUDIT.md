@@ -3,8 +3,8 @@
 Generated: 2026-09-04T08:39:25.899717+00:00
 
 ## Paths
-- Original project: `F:\ENTO_code`
-- Export path: `F:\ENTO_code\submission_repository\MM-RVD`
+- Original project: `<SOURCE_PROJECT_ROOT>`
+- Export path: `<PUBLIC_REPOSITORY_ROOT>`
 - Clone path: `NOT_CREATED_GH_CLI_NOT_AVAILABLE`
 - GitHub repository: https://github.com/jackli704178681/MM-RVD
 
