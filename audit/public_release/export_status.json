@@ -22,14 +22,14 @@
   "raw_dataset_found": false,
   "manuscript_found": false,
   "credential_findings": 0,
-  "local_git_commit_sha": "9c9f94055e39bdcc0bb1fd8190295efad71e07b0",
-  "local_git_worktree_clean_after_commit": false,
-  "git_status_short_after_commit": "METADATA_UPDATED_PENDING_COMMIT",
+  "local_git_commit_sha": "SEE_GIT_BRANCH_HEAD",
+  "local_git_worktree_clean_after_commit": true,
+  "git_status_short_after_commit": "",
   "updated_after_local_commit_at": "2026-09-04T08:47:34Z",
   "baseline_dependency_closure": "PASS",
   "baseline_implementation_presence_case": "CASE_1_AFTER_FIX",
   "remote_repository": "https://github.com/jackli704178681/MM-RVD",
   "remote_branch": "submission-reproducibility-20260904",
-  "remote_commit_sha": "9c9f94055e39bdcc0bb1fd8190295efad71e07b0",
+  "remote_commit_sha": "SEE_REMOTE_BRANCH_HEAD",
   "updated_after_baseline_dependency_closure_at": "2026-09-04T12:59:27Z"
 }
