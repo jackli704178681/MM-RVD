@@ -1,0 +1,79 @@
+dataset,condition,condition_id,model_id,cn_balacc,aggregation
+Allen VBN,AC10,AC_P10,AB0,0.9980651485330765,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,AC10_RM,AC_P10_RM,AB0,0.9982141301209833,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,CLEAN,CLEAN,AB0,0.9984180906893757,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,HD30,HD30,AB0,0.809066834230777,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,LD30,LD30,AB0,0.9984810022218928,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,RC10,RC_P10,AB0,0.998257769203685,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,RC10_RM,RC_P10_RM,AB0,0.9982552960040817,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,RU30,RU30,AB0,0.9978489918710206,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,AC10,AC_P10,AB4,0.9974485499190661,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,AC10_RM,AC_P10_RM,AB4,0.9979697191138212,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,CLEAN,CLEAN,AB4,0.9984180906893757,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,HD30,HD30,AB4,0.1715942077910758,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,LD30,LD30,AB4,0.9983482448703351,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,RC10,RC_P10,AB4,0.9979457147446499,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,RC10_RM,RC_P10_RM,AB4,0.9979553621299438,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,RU30,RU30,AB4,0.9958299472644718,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,AC10,AC_P10,AB5,0.9628524520627578,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,AC10_RM,AC_P10_RM,AB5,0.969828289118345,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,CLEAN,CLEAN,AB5,0.9712883405482177,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,HD30,HD30,AB5,0.25508945140427364,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,LD30,LD30,AB5,0.977592732977146,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,RC10,RC_P10,AB5,0.9692564960369007,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,RC10_RM,RC_P10_RM,AB5,0.9692344719221402,replicate -> seed-within-session -> session -> animal -> dataset
+Allen VBN,RU30,RU30,AB5,0.9633795303595254,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,AC10,AC_P10,AB0,0.9853571428571429,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,AC10_RM,AC_P10_RM,AB0,0.9872619047619047,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,CLEAN,CLEAN,AB0,0.9904761904761904,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,HD30,HD30,AB0,0.9142857142857143,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,LD30,LD30,AB0,0.9916666666666667,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,RC10,RC_P10,AB0,0.9874999999999999,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,RC10_RM,RC_P10_RM,AB0,0.9858333333333333,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,RU30,RU30,AB0,0.9760714285714286,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,AC10,AC_P10,AB4,0.9761904761904762,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,AC10_RM,AC_P10_RM,AB4,0.9811904761904762,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,CLEAN,CLEAN,AB4,0.9904761904761904,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,HD30,HD30,AB4,0.4869047619047619,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,LD30,LD30,AB4,0.9880952380952381,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,RC10,RC_P10,AB4,0.9788095238095238,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,RC10_RM,RC_P10_RM,AB4,0.9777380952380952,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,RU30,RU30,AB4,0.9280952380952381,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,AC10,AC_P10,AB5,0.958452380952381,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,AC10_RM,AC_P10_RM,AB5,0.955952380952381,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,CLEAN,CLEAN,AB5,0.9654761904761905,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,HD30,HD30,AB5,0.8321428571428572,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,LD30,LD30,AB5,0.9702380952380952,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,RC10,RC_P10,AB5,0.9563095238095238,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,RC10_RM,RC_P10_RM,AB5,0.9545238095238094,replicate -> seed-within-session -> session -> animal -> dataset
+CRCNS pvc-11,RU30,RU30,AB5,0.9309523809523809,replicate -> seed-within-session -> session -> animal -> dataset
+RS Center-Out,CLEAN,CLEAN,AB0,0.948028638028638,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,HD10,HD10,AB0,0.9057686757686758,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,HD30,HD30,AB0,0.7201787101787102,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,HD50,HD50,AB0,0.4275690975690976,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,LD10,LD10,AB0,0.9437529137529138,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,LD30,LD30,AB0,0.9481918081918081,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,LD50,LD50,AB0,0.9742279942279943,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,RU10,RU10,AB0,0.9324691974691974,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,RU30,RU30,AB0,0.9028091908091909,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,RU50,RU50,AB0,0.8680831390831392,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,CLEAN,CLEAN,AB4,0.948028638028638,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,HD10,HD10,AB4,0.8408003108003108,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,HD30,HD30,AB4,0.3888722388722389,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,HD50,HD50,AB4,0.14774891774891777,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,LD10,LD10,AB4,0.9464269064269064,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,LD30,LD30,AB4,0.9424775224775225,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,LD50,LD50,AB4,0.9372249972249971,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,RU10,RU10,AB4,0.9148534798534799,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,RU30,RU30,AB4,0.8304029304029305,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,RU50,RU50,AB4,0.6250296370296371,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,CLEAN,CLEAN,AB5,0.948028638028638,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,HD10,HD10,AB5,0.9057686757686758,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,HD30,HD30,AB5,0.7201787101787102,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,HD50,HD50,AB5,0.4211621711621712,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,LD10,LD10,AB5,0.9437529137529138,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,LD30,LD30,AB5,0.9481918081918081,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,LD50,LD50,AB5,0.9564024864024864,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,RU10,RU10,AB5,0.9324691974691974,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,RU30,RU30,AB5,0.9028091908091909,mask replicate -> split -> five-split descriptive mean
+RS Center-Out,RU50,RU50,AB5,0.850027861027861,mask replicate -> split -> five-split descriptive mean

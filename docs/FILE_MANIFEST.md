@@ -1,6 +1,6 @@
 # File Manifest
 
-> The table below documents the historical September 2026 visual-only public export. It is retained for provenance; its R4/A11/S1 source data and figure numbering do not define the current three-dataset manuscript. Current-study result tables and the manuscript are not in this repository update.
+> The table below documents the historical September 2026 visual-only public export. It is retained for provenance; its R4/A11/S1 source data and figure numbering do not define the current three-dataset study. Current aggregate results and input SHA-256 are in `source_data/current_20261016/`.
 
 | Original project file | Repository path | Purpose |
 |---|---|---|

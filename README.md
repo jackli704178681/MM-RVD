@@ -4,7 +4,7 @@
 
 MM-RVD decodes eight task classes when some *sorted recording units* are unavailable for an entire 0-0.5 s trial window. The method uses observed-unit temporal statistics, a fixed FIT-derived PCA coordinate system, and the same observation mask for the query and its FIT training reference. Class prototypes and a shared covariance/precision estimate are constructed in that matched space. It does not reconstruct missing spikes or refit PCA for each mask.
 
-This repository holds code, protocol records, and historical result summaries. **The manuscript and current-study result tables are not included in this update.** Earlier R4/A11 and temporal-missingness materials remain for provenance; they are not the current study's main result protocol. See [method scope](docs/METHOD_SCOPE.md) before using a historical script or table.
+This repository provides MM-RVD code, protocol records, and current aggregate result tables. Earlier R4/A11 and temporal-missingness materials remain for provenance; they are not the current study's main result protocol. See [method scope](docs/METHOD_SCOPE.md) before using a historical script or table.
 
 ## Current study
 
@@ -29,15 +29,17 @@ FIT is used for fitting and data-dependent statistics, INNER for model-state sel
 
 ## Repository map
 
-- [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md): scope and interpretation of the available code and historical summaries.
-- [`scripts/aggregation/export_current_public_summaries.py`](scripts/aggregation/export_current_public_summaries.py): optional local exporter for holders of frozen aggregate inputs; no current result tables are published here.
-- `src/`, `scripts/`, `configs/`, `manifests/`: retained implementation and historical frozen material. Their older R4/A11/S1 results do **not** represent current results.
+- [`source_data/current_20261016/`](source_data/current_20261016/README.md): current three-dataset, aggregate-only formal result CSVs and source SHA-256 bindings.
+- [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md): scope and interpretation of the available code and summaries.
+- [`docs/MODEL_STATE_SCOPE.md`](docs/MODEL_STATE_SCOPE.md): frozen-state coverage and why checkpoint binaries are not in this repository.
+- [`scripts/aggregation/export_current_public_summaries.py`](scripts/aggregation/export_current_public_summaries.py): optional local exporter for holders of frozen aggregate inputs.
+- `src/`, `scripts/`, `configs/`, `manifests/`: retained implementation and historical frozen material. Their older R4/A11/S1 results do **not** replace the current tables.
 - `source_data/figure_2/`, `source_data/figure_3/`, `results/main_summary/`, `results/ablation_summary/`: September 2026 legacy output retained for traceability, not current Figure 2-5 data.
 
-The historical code in this repository is **not yet a self-contained end-to-end runner for all three current datasets**: some frozen state, split, mask and RS execution artifacts remain outside this public update. The documentation should not be taken as full raw-data reproducibility or evidence of prospective cross-day unit loss.
+The aggregate tables can be inspected without downloading neural responses. Raw-data-to-prediction replay additionally requires provider-hosted neural datasets and the frozen model-state, split, mask, and RS execution artifacts described in [reproducibility](docs/REPRODUCIBILITY.md) and [model-state scope](docs/MODEL_STATE_SCOPE.md). The tables report the frozen evaluation; they are not an online-latency or prospective cross-day study.
 
 ## Authors and citation
 
 Bo Li, Qing-Zhi He, Jun-Cai Zhu, Xiao-Ke Niu, Peng Wu, Ru-Peng Zhang, Zheng Xu, Jiang-Tao Wang, and Zhi-Zhong Wang. School of Electrical and Information Engineering, Zhengzhou University, Zhengzhou, China.
 
-The manuscript is in preparation; see `CITATION.cff` for software citation metadata. The software license is pending author confirmation (`LICENSE_PENDING.txt`).
+Software citation metadata is in [`CITATION.cff`](CITATION.cff).

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, cite this repository. The associated manuscript is in preparation and is not distributed here."
+message: "If you use this software, cite this repository."
 title: "MM-RVD: Mask-Matched Neural Population Decoding under Recording-Unit Missingness"
 type: software
 authors:
