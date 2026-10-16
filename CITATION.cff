@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the associated MM-RVD manuscript."
-title: "MM-RVD: Mask-matched prototype decoding under structured observation missingness in visual neural populations"
+message: "If you use this software, cite this repository. The associated manuscript is in preparation and is not distributed here."
+title: "MM-RVD: Mask-Matched Neural Population Decoding under Recording-Unit Missingness"
 type: software
 authors:
   - family-names: "Li"
