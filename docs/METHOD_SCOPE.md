@@ -6,8 +6,8 @@ The current model is the A9-selected MM-RVD R6 path: FIT-only unit standardizati
 
 Current datasets: Allen VBN (14 sessions/12 mice), CRCNS pvc-11 (3 sessions/3 macaques), and RS Center-Out (one macaque, five split repeats). AC requires verified physical channel geometry and was not evaluated for RS. RC/AC and their RM controls match the *number of removed units*, not the fraction of selected channels. FIT, INNER and SCREENING have distinct roles. AB4 and AB5 are INNER mechanism ablations and are not external baselines.
 
-Current-study result tables are not part of this code-and-documentation update. The old `source_data/figure_2/`, `source_data/figure_3/`, `results/main_summary/`, `results/ablation_summary/` and Supplementary S1 files represent an earlier 17-session, partly different missingness protocol. They must not be silently relabeled as current Figure 2-5 evidence.
+Selected current-study aggregate result tables are under `source_data/current_20261016/`. The old `source_data/figure_2/`, `source_data/figure_3/`, `results/main_summary/`, `results/ablation_summary/` and Supplementary S1 files represent an earlier 17-session, partly different missingness protocol. They must not be silently relabeled as current Figure 2-5 evidence.
 
 ## Reproducibility boundary
 
-The public repository contains method source and earlier frozen records, but not all current frozen model states, masks, trial splits, RS execution adapters, current result tables or raw provider datasets. It does not by itself reproduce all formal predictions from raw data. See `docs/REPRODUCIBILITY.md`.
+The public repository contains method source, selected current aggregate tables and earlier frozen records, but not all current frozen model states, masks, trial splits, RS execution adapters or raw provider datasets. It does not by itself reproduce all formal predictions from raw data. See `docs/REPRODUCIBILITY.md`.

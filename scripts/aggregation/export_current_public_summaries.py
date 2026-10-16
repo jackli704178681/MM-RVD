@@ -83,7 +83,7 @@ def main() -> None:
     write_rows(output / "inner_ablation_dataset.csv", [select(r, ablation_fields) for r in ablation], ablation_fields)
 
     manifest = {
-        "scope": "2026-10-16 manuscript-aligned local aggregate export",
+        "scope": "2026-10-16 manuscript-aligned aggregate-only public data",
         "source_sha256": {
             "formal_dataset": sha256(args.formal_dataset),
             "rs_unit": sha256(args.rs_unit),

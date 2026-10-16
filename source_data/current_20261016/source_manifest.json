@@ -1,0 +1,22 @@
+{
+  "scope": "2026-10-16 manuscript-aligned aggregate-only public data",
+  "source_sha256": {
+    "formal_dataset": "4959e90f38b5203db56478efeaca93f392e47544eb1ecf0f072060233e9c3d9f",
+    "rs_unit": "c99f72097d436f90e4e955d70c620b58d03885e8e0762f4e669fe9acb386c1a6",
+    "rs_channel": "8f1a759117f68430240b45139eba14f03e368d05b82a42be147d1f995633adfc",
+    "ablation": "51f71c19eb126077e91099b878a23acaff8a47463cf0590b0c1bc6be9d567dc3"
+  },
+  "output_rows": {
+    "screening_allen_crcns_dataset.csv": 592,
+    "screening_rs_unit_loss.csv": 152,
+    "screening_rs_rc_rm.csv": 32,
+    "inner_ablation_dataset.csv": 78
+  },
+  "limitations": [
+    "Allen/CRCNS M1 (-Mask) excluded from eight-method external comparison",
+    "RS source model ID M1 denotes MM-RVD; it is not the Allen/CRCNS M1 (-Mask)",
+    "RS n_splits=5 describes one animal under five partition seeds, not five animals",
+    "RS has RC/RM only; no AC values are imputed",
+    "These files contain frozen aggregates, not raw trials or neural responses"
+  ]
+}

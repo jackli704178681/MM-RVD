@@ -1,0 +1,593 @@
+dataset,method_id,method_name,condition_id,condition_family,severity_type,severity,main_or_supplementary,BA,CN_BalAcc,n_animals
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.9989146181204366,0.9987595635662133,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9989183951970148,0.9987638802251596,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.9988703669394785,0.9987089907879755,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9989144395481082,0.9987593594835523,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.9987859402804388,0.9986125031776444,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9988308559399571,0.9986638353599511,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.9987543840652725,0.9985764389317399,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9987768112812186,0.9986020700356785,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,CLEAN,clean,none,0,main,0.9989562567877215,0.9988071506145388,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,HD05,high_information_loss,unit_fraction,0.05,main,0.9977769399011384,0.9974593598870153,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,HD10,high_information_loss,unit_fraction,0.1,main,0.9941629640099463,0.993329101725653,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,HD20,high_information_loss,unit_fraction,0.2,main,0.9671573481194485,0.9624655407079411,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,HD30,high_information_loss,unit_fraction,0.3,main,0.8341989943837794,0.810513136438605,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,HD40,high_information_loss,unit_fraction,0.4,main,0.6086235910129677,0.5527126754433916,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,HD50,high_information_loss,unit_fraction,0.5,main,0.40783996722813315,0.32324567683215216,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.9988956414062095,0.9987378758928108,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,LD05,low_information_loss,unit_fraction,0.05,main,0.9989562567877215,0.9988071506145388,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,LD10,low_information_loss,unit_fraction,0.1,main,0.9989990009016835,0.9988560010304953,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,LD20,low_information_loss,unit_fraction,0.2,main,0.9989982131924678,0.9988551007913918,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,LD30,low_information_loss,unit_fraction,0.3,main,0.9989982302765932,0.9988551203161063,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,LD40,low_information_loss,unit_fraction,0.4,main,0.9989688741247481,0.9988215704282836,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,LD50,low_information_loss,unit_fraction,0.5,main,0.9990979987959712,0.9989691414811098,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.998867103514415,0.9987052611593316,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9989060863095903,0.998749812925246,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.9988526763964073,0.9986887730244655,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9989012620150698,0.9987442994457941,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.9988576443393381,0.9986944506735292,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9988250541323245,0.9986572047226564,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.9987712371480243,0.998595699597742,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9988465245764994,0.9986817423731421,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RU05,random_unit_loss,unit_fraction,0.05,main,0.9988950700004201,0.9987372228576229,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RU10,random_unit_loss,unit_fraction,0.1,main,0.9988747792449604,0.9987140334228118,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RU20,random_unit_loss,unit_fraction,0.2,main,0.9988367148141188,0.9986705312161357,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RU30,random_unit_loss,unit_fraction,0.3,main,0.9987330713313646,0.9985520815215595,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RU40,random_unit_loss,unit_fraction,0.4,main,0.9985079339917745,0.9982947817048852,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,RU50,random_unit_loss,unit_fraction,0.5,main,0.9981562262361114,0.9978928299841273,12
+Allen Visual Behavior Neuropixels,M0,MM-RVD R6,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.9989164985180014,0.9987617125920015,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.9857305980710053,0.9836921120811489,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9859778674196757,0.9839747056224866,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.9851914770839181,0.9830759738101921,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9856333143678319,0.9835809307060935,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.982820117040132,0.980365848045865,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9842638233374363,0.9820157980999272,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.9819167453416798,0.9793334232476342,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9833522630122894,0.980974014871188,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,CLEAN,clean,none,0,main,0.9864803059519031,0.9845489210878892,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,HD05,high_information_loss,unit_fraction,0.05,main,0.9422651561987035,0.934017321369947,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,HD10,high_information_loss,unit_fraction,0.1,main,0.8572043869293253,0.8368050136335147,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,HD20,high_information_loss,unit_fraction,0.2,main,0.5913900098805162,0.5330171541491614,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,HD30,high_information_loss,unit_fraction,0.3,main,0.37082427704176096,0.2809420309048697,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,HD40,high_information_loss,unit_fraction,0.4,main,0.24144576928693087,0.13308087918506387,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,HD50,high_information_loss,unit_fraction,0.5,main,0.18807810603893818,0.07208926404450078,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.983421957570822,0.981053665795225,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,LD05,low_information_loss,unit_fraction,0.05,main,0.9871551501919589,0.985320171647953,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,LD10,low_information_loss,unit_fraction,0.1,main,0.9886848436741995,0.9870683927705137,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,LD20,low_information_loss,unit_fraction,0.2,main,0.9911566595326455,0.9898933251801664,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,LD30,low_information_loss,unit_fraction,0.3,main,0.9931048158619215,0.9921197895564817,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,LD40,low_information_loss,unit_fraction,0.4,main,0.9933867018589391,0.9924419449816447,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,LD50,low_information_loss,unit_fraction,0.5,main,0.9939804589063751,0.9931205244644287,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.9860610080309452,0.9840697234639375,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9860695133699157,0.9840794438513322,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.9856324620252693,0.9835799566003077,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9856757582554206,0.983629438006195,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.9846447533662692,0.9824511467043076,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.984772299152164,0.9825969133167588,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.982897002605001,0.9804537172628582,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9830629095919581,0.980643325247952,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RU05,random_unit_loss,unit_fraction,0.05,main,0.9854887113839711,0.9834156701531099,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RU10,random_unit_loss,unit_fraction,0.1,main,0.9842753730721108,0.9820289977966982,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RU20,random_unit_loss,unit_fraction,0.2,main,0.9815410505640486,0.9789040577874841,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RU30,random_unit_loss,unit_fraction,0.3,main,0.9781389818776876,0.9750159792887857,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RU40,random_unit_loss,unit_fraction,0.4,main,0.9719395851958684,0.9679309545095639,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,RU50,random_unit_loss,unit_fraction,0.5,main,0.963023431708776,0.9577410648100297,12
+Allen Visual Behavior Neuropixels,M2,Mean-rate Linear SVM,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.9864913446867644,0.9845615367848733,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.9105072127825773,0.897722528894374,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9111409492476173,0.898446799140134,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.9082363005281172,0.8951272006035627,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9107275436811446,0.8979743356355939,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.9029458845169995,0.8890810108765709,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9087974696468243,0.8957685367392277,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.9047774706699238,0.8911742521941987,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9060921563397643,0.8926767501025877,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,CLEAN,clean,none,0,main,0.9115520761473929,0.8989166584541634,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,HD05,high_information_loss,unit_fraction,0.05,main,0.7946120750464957,0.765270942910281,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,HD10,high_information_loss,unit_fraction,0.1,main,0.6672720509921876,0.6197394868482143,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,HD20,high_information_loss,unit_fraction,0.2,main,0.4150593555098221,0.33149640629693955,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,HD30,high_information_loss,unit_fraction,0.3,main,0.25721438355151083,0.15110215263029805,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,HD40,high_information_loss,unit_fraction,0.4,main,0.17814037629076318,0.06073185861801506,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,HD50,high_information_loss,unit_fraction,0.5,main,0.15101028686713838,0.029726042133872425,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.9002619946453675,0.8860137081661343,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,LD05,low_information_loss,unit_fraction,0.05,main,0.9172840685758955,0.9054675069438806,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,LD10,low_information_loss,unit_fraction,0.1,main,0.9203744005571712,0.9089993149224814,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,LD20,low_information_loss,unit_fraction,0.2,main,0.9248027303506237,0.9140602632578556,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,LD30,low_information_loss,unit_fraction,0.3,main,0.9325439818255151,0.9229074078005888,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,LD40,low_information_loss,unit_fraction,0.4,main,0.9429626697561928,0.9348144797213632,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,LD50,low_information_loss,unit_fraction,0.5,main,0.9531931795610444,0.9465064909269079,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.9107614695378087,0.89801310804321,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.910908955331366,0.8981816632358468,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.9097974532843999,0.8969113751821713,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9105859329366583,0.8978124947847524,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.9087396167875997,0.8957024191858282,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9093337813063113,0.8963814643500698,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.9066210143737773,0.893281159284317,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9068109513888299,0.8934982301586628,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RU05,random_unit_loss,unit_fraction,0.05,main,0.9102358555309037,0.8974124063210329,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RU10,random_unit_loss,unit_fraction,0.1,main,0.9085366464898935,0.895470453131307,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RU20,random_unit_loss,unit_fraction,0.2,main,0.904648923865229,0.8910273415602616,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RU30,random_unit_loss,unit_fraction,0.3,main,0.9007673217975286,0.8865912249114613,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RU40,random_unit_loss,unit_fraction,0.4,main,0.895415330730999,0.8804746636925703,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,RU50,random_unit_loss,unit_fraction,0.5,main,0.8872828150334028,0.8711803600381746,12
+Allen Visual Behavior Neuropixels,M3,SVD64 + Logistic Regression,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.9115301960042334,0.8988916525762667,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.9946200058001073,0.9938514352001228,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9948639934353105,0.9941302782117835,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.9941569949316098,0.9933222799218399,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9944425179410507,0.9936485919326293,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.9916645843041817,0.9904738106333505,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9929685478621084,0.9919640546995524,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.9911566677864588,0.9898933346130958,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9911941883448239,0.9899362152512273,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,CLEAN,clean,none,0,main,0.9951166754067899,0.9944190576077601,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,HD05,high_information_loss,unit_fraction,0.05,main,0.9447309435480138,0.9368353640548729,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,HD10,high_information_loss,unit_fraction,0.1,main,0.7852458463030242,0.7545666814891704,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,HD20,high_information_loss,unit_fraction,0.2,main,0.39074686889187266,0.30371070730499733,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,HD30,high_information_loss,unit_fraction,0.3,main,0.203546516816171,0.08976744778990971,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,HD40,high_information_loss,unit_fraction,0.4,main,0.14960472959622764,0.028119690967117306,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,HD50,high_information_loss,unit_fraction,0.5,main,0.13577234565035312,0.012311252171832146,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.9931321044546902,0.992150976519646,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,LD05,low_information_loss,unit_fraction,0.05,main,0.9952434994898054,0.9945639994169203,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,LD10,low_information_loss,unit_fraction,0.1,main,0.9951568347669019,0.9944649540193162,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,LD20,low_information_loss,unit_fraction,0.2,main,0.995278038043467,0.9946034720496767,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,LD30,low_information_loss,unit_fraction,0.3,main,0.9953412814985794,0.9946757502840907,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,LD40,low_information_loss,unit_fraction,0.4,main,0.9952097200866453,0.9945253943847375,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,LD50,low_information_loss,unit_fraction,0.5,main,0.9949101650533,0.9941830457752,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.9947662703505219,0.9940185946863108,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9948423882026542,0.9941055865173193,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.994304213211624,0.993490529384713,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.99423134478402,0.9934072511817371,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.9932212124668437,0.9922528142478214,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9931502605058405,0.9921717262923893,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.9914387876971484,0.9902157573681697,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.991549384799599,0.9903421540566845,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RU05,random_unit_loss,unit_fraction,0.05,main,0.99439988547757,0.9935998691172228,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RU10,random_unit_loss,unit_fraction,0.1,main,0.9931731911864835,0.9921979327845526,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RU20,random_unit_loss,unit_fraction,0.2,main,0.9893079975443696,0.9877805686221367,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RU30,random_unit_loss,unit_fraction,0.3,main,0.9820310104961747,0.9794640119956282,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RU40,random_unit_loss,unit_fraction,0.4,main,0.9642444807846009,0.9591365494681153,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,RU50,random_unit_loss,unit_fraction,0.5,main,0.9238160636161511,0.9129326441327441,12
+Allen Visual Behavior Neuropixels,M4,CEBRA,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.9951113017584209,0.9944129162953382,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.23803579538486155,0.1291837661541275,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.2414074392380168,0.13303707341487633,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.20919323342727839,0.09622083820260385,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.21076923484802057,0.09802198268345208,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.1778861461454085,0.06044130988046686,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.17325912699123738,0.05515328798998557,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.15635659655369824,0.0358361103470837,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.16049200262254334,0.04056228871147812,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,CLEAN,clean,none,0,main,0.4255193493812244,0.3434506850071135,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,HD05,high_information_loss,unit_fraction,0.05,main,0.15996057327901125,0.03995494089029857,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,HD10,high_information_loss,unit_fraction,0.1,main,0.13490851623473782,0.01132401855398607,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,HD20,high_information_loss,unit_fraction,0.2,main,0.1257840650321208,0.0008960743224237794,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,HD30,high_information_loss,unit_fraction,0.3,main,0.12609804404512306,0.0012549074801406314,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,HD40,high_information_loss,unit_fraction,0.4,main,0.12542193686263406,0.0004822135572960474,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,HD50,high_information_loss,unit_fraction,0.5,main,0.12490711365257527,-0.00010615582562825661,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.16419051619332617,0.044789161363801316,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,LD05,low_information_loss,unit_fraction,0.05,main,0.2145671903564168,0.10236250326447638,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,LD10,low_information_loss,unit_fraction,0.1,main,0.16276007866958386,0.04315437562238156,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,LD20,low_information_loss,unit_fraction,0.2,main,0.15416032728368587,0.033326088324212425,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,LD30,low_information_loss,unit_fraction,0.3,main,0.14113082928982154,0.018435233474081766,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,LD40,low_information_loss,unit_fraction,0.4,main,0.14296618747444492,0.02053278568507992,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,LD50,low_information_loss,unit_fraction,0.5,main,0.142951894213922,0.02051645053019654,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.23943037304207504,0.13077756919094294,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.23889349523391398,0.13016399455304453,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.20974900795172677,0.09685600908768772,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.20829974119607964,0.095199704224091,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.17840324292092927,0.06103227762391916,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.17765183511968966,0.060173525851073884,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.1634127299312141,0.043900262778530395,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.16162084982993924,0.041852399805644834,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RU05,random_unit_loss,unit_fraction,0.05,main,0.2127187718937268,0.10025002502140205,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RU10,random_unit_loss,unit_fraction,0.1,main,0.1770809239752855,0.05952105597175483,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RU20,random_unit_loss,unit_fraction,0.2,main,0.14955148713730843,0.028058842442638194,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RU30,random_unit_loss,unit_fraction,0.3,main,0.1386075550225447,0.015551491454336817,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RU40,random_unit_loss,unit_fraction,0.4,main,0.13431876510660648,0.01065001726469311,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,RU50,random_unit_loss,unit_fraction,0.5,main,0.12914528684359627,0.0047374706783957395,12
+Allen Visual Behavior Neuropixels,M5,GRU-D,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.4069843109855082,0.32226778398343786,12
+Allen Visual Behavior Neuropixels,M6,TCN,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.824173801640998,0.7990557733039975,12
+Allen Visual Behavior Neuropixels,M6,TCN,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8287183085441961,0.8042494954790813,12
+Allen Visual Behavior Neuropixels,M6,TCN,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.8100209474581845,0.7828810828093536,12
+Allen Visual Behavior Neuropixels,M6,TCN,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8205505369833221,0.7949148994095109,12
+Allen Visual Behavior Neuropixels,M6,TCN,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.777955146344452,0.746234452965088,12
+Allen Visual Behavior Neuropixels,M6,TCN,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8031415836782573,0.7750189527751511,12
+Allen Visual Behavior Neuropixels,M6,TCN,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.7544115592798876,0.7193274963198716,12
+Allen Visual Behavior Neuropixels,M6,TCN,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.7675835426151459,0.7343811915601668,12
+Allen Visual Behavior Neuropixels,M6,TCN,CLEAN,clean,none,0,main,0.8344643849800281,0.810816439977175,12
+Allen Visual Behavior Neuropixels,M6,TCN,HD05,high_information_loss,unit_fraction,0.05,main,0.48211192301171685,0.40812791201339077,12
+Allen Visual Behavior Neuropixels,M6,TCN,HD10,high_information_loss,unit_fraction,0.1,main,0.2877230764420506,0.18596923021948633,12
+Allen Visual Behavior Neuropixels,M6,TCN,HD20,high_information_loss,unit_fraction,0.2,main,0.1697458464620323,0.05113811024232264,12
+Allen Visual Behavior Neuropixels,M6,TCN,HD30,high_information_loss,unit_fraction,0.3,main,0.14381145694314243,0.021498807935019917,12
+Allen Visual Behavior Neuropixels,M6,TCN,HD40,high_information_loss,unit_fraction,0.4,main,0.13605712187043423,0.012636710709067698,12
+Allen Visual Behavior Neuropixels,M6,TCN,HD50,high_information_loss,unit_fraction,0.5,main,0.13210427954589563,0.008119176623880713,12
+Allen Visual Behavior Neuropixels,M6,TCN,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.7804153897037921,0.7490461596614767,12
+Allen Visual Behavior Neuropixels,M6,TCN,LD05,low_information_loss,unit_fraction,0.05,main,0.8366449873633949,0.813308556986737,12
+Allen Visual Behavior Neuropixels,M6,TCN,LD10,low_information_loss,unit_fraction,0.1,main,0.8313591121939604,0.8072675567930977,12
+Allen Visual Behavior Neuropixels,M6,TCN,LD20,low_information_loss,unit_fraction,0.2,main,0.8218833877646721,0.7964381574453393,12
+Allen Visual Behavior Neuropixels,M6,TCN,LD30,low_information_loss,unit_fraction,0.3,main,0.798626674276409,0.7698590563158959,12
+Allen Visual Behavior Neuropixels,M6,TCN,LD40,low_information_loss,unit_fraction,0.4,main,0.7542304956004168,0.7191205664004764,12
+Allen Visual Behavior Neuropixels,M6,TCN,LD50,low_information_loss,unit_fraction,0.5,main,0.6879699828045567,0.6433942660623505,12
+Allen Visual Behavior Neuropixels,M6,TCN,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.8273316561392989,0.8026647498734846,12
+Allen Visual Behavior Neuropixels,M6,TCN,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8288759961868813,0.8044297099278644,12
+Allen Visual Behavior Neuropixels,M6,TCN,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.8200580873211042,0.7943520997955477,12
+Allen Visual Behavior Neuropixels,M6,TCN,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8217029251939137,0.79623191450733,12
+Allen Visual Behavior Neuropixels,M6,TCN,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.8010509861205842,0.7726296984235247,12
+Allen Visual Behavior Neuropixels,M6,TCN,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.806052252966292,0.7783454319614765,12
+Allen Visual Behavior Neuropixels,M6,TCN,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.7772009680751282,0.7453725349430035,12
+Allen Visual Behavior Neuropixels,M6,TCN,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.7758773834523444,0.7438598668026791,12
+Allen Visual Behavior Neuropixels,M6,TCN,RU05,random_unit_loss,unit_fraction,0.05,main,0.8219247982183563,0.7964854836781216,12
+Allen Visual Behavior Neuropixels,M6,TCN,RU10,random_unit_loss,unit_fraction,0.1,main,0.8037272862400638,0.7756883271315015,12
+Allen Visual Behavior Neuropixels,M6,TCN,RU20,random_unit_loss,unit_fraction,0.2,main,0.7454780880754374,0.7091178149433569,12
+Allen Visual Behavior Neuropixels,M6,TCN,RU30,random_unit_loss,unit_fraction,0.3,main,0.6719776206886853,0.625117280787069,12
+Allen Visual Behavior Neuropixels,M6,TCN,RU40,random_unit_loss,unit_fraction,0.4,main,0.5979141962819409,0.540473367179361,12
+Allen Visual Behavior Neuropixels,M6,TCN,RU50,random_unit_loss,unit_fraction,0.5,main,0.5244816961057216,0.4565505098351104,12
+Allen Visual Behavior Neuropixels,M6,TCN,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.8345664505996494,0.8109330863995994,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.995082970074118,0.9943805372275634,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9952004043466317,0.9945147478247219,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.993716146168664,0.9928184527641873,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9950183817554802,0.9943067220062631,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.988543216173699,0.9869065327699417,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9941900339122802,0.9933600387568916,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.9893205869624371,0.9877949565284996,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9928741886261614,0.9918562155727558,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,CLEAN,clean,none,0,main,0.9953171720856943,0.9946481966693649,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,HD05,high_information_loss,unit_fraction,0.05,main,0.8849191039247111,0.8684789759139555,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,HD10,high_information_loss,unit_fraction,0.1,main,0.6208251816758257,0.5666573504866579,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,HD20,high_information_loss,unit_fraction,0.2,main,0.2500537594200541,0.14291858219434753,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,HD30,high_information_loss,unit_fraction,0.3,main,0.16195060875248313,0.04222926714569499,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,HD40,high_information_loss,unit_fraction,0.4,main,0.13984977008675192,0.01697116581343076,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,HD50,high_information_loss,unit_fraction,0.5,main,0.13469856810964287,0.01108407783959185,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.9931093286037417,0.9921249469757049,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,LD05,low_information_loss,unit_fraction,0.05,main,0.9957043582130821,0.9950906951006653,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,LD10,low_information_loss,unit_fraction,0.1,main,0.9959224012314541,0.9953398871216619,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,LD20,low_information_loss,unit_fraction,0.2,main,0.9962579763638177,0.9957234015586489,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,LD30,low_information_loss,unit_fraction,0.3,main,0.996445278992894,0.9959374617061645,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,LD40,low_information_loss,unit_fraction,0.4,main,0.9960394643862648,0.9954736735843026,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,LD50,low_information_loss,unit_fraction,0.5,main,0.9942480033160027,0.993426289504003,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.99517412342318,0.9944847124836342,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9951236725896925,0.99442705438822,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.9949372539058046,0.9942140044637767,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.994958128296891,0.9942378609107326,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.9944171132911382,0.9936195580470152,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9941691513054769,0.9933361729205451,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.9932995244374704,0.9923423136428232,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9932411180070172,0.992275563436591,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RU05,random_unit_loss,unit_fraction,0.05,main,0.9950205432210683,0.9943091922526492,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RU10,random_unit_loss,unit_fraction,0.1,main,0.9942259625619192,0.9934011000707647,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RU20,random_unit_loss,unit_fraction,0.2,main,0.9917231564928258,0.9905407502775153,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RU30,random_unit_loss,unit_fraction,0.3,main,0.984519137250912,0.9823075854296137,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RU40,random_unit_loss,unit_fraction,0.4,main,0.9621183679436737,0.9567067062213414,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,RU50,random_unit_loss,unit_fraction,0.5,main,0.907451676663269,0.8942304876151644,12
+Allen Visual Behavior Neuropixels,M7,Position-aware Transformer,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.9953274249304269,0.9946599142062023,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.9773960360051945,0.9741668982916508,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9774008533568258,0.9741724038363723,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.977366047031624,0.9741326251789989,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9777490626431099,0.9745703573064112,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.9749492459504859,0.9713705668005553,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9771922672356479,0.9739340196978832,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.9756997749603814,0.9722283142404359,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9764180085415367,0.973049152618899,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,CLEAN,clean,none,0,main,0.9775811940253458,0.9743785074575381,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,HD05,high_information_loss,unit_fraction,0.05,main,0.9400217430706531,0.9314534206521751,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,HD10,high_information_loss,unit_fraction,0.1,main,0.8889634990160747,0.8731011417326568,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,HD20,high_information_loss,unit_fraction,0.2,main,0.7337254851939012,0.6956862687930299,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,HD30,high_information_loss,unit_fraction,0.3,main,0.5366143329440453,0.4704163805074803,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,HD40,high_information_loss,unit_fraction,0.4,main,0.37271267759034576,0.2831002029603951,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,HD50,high_information_loss,unit_fraction,0.5,main,0.2758836986705984,0.17243851276639824,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.9737021546230253,0.9699453195691717,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,LD05,low_information_loss,unit_fraction,0.05,main,0.9782696290021401,0.9751652902881601,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,LD10,low_information_loss,unit_fraction,0.1,main,0.9791878337555664,0.9762146671492188,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,LD20,low_information_loss,unit_fraction,0.2,main,0.9800153770218873,0.9771604308821571,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,LD30,low_information_loss,unit_fraction,0.3,main,0.9813067471427428,0.9786362824488489,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,LD40,low_information_loss,unit_fraction,0.4,main,0.982951082479471,0.9805155228336812,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,LD50,low_information_loss,unit_fraction,0.5,main,0.9844428753691975,0.9822204289933686,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.9776397335773063,0.9744454098026357,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9774829321378533,0.9742662081575465,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.977319225919139,0.9740791153361589,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9774482649591943,0.9742265885247935,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.9771851078006257,0.9739258374864295,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9769068184717131,0.9736077925391006,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.9768085178946193,0.973495449022422,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.976264239195265,0.9728734162231599,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RU05,random_unit_loss,unit_fraction,0.05,main,0.9775696440459288,0.9743653074810616,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RU10,random_unit_loss,unit_fraction,0.1,main,0.9771337477043284,0.9738671402335181,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RU20,random_unit_loss,unit_fraction,0.2,main,0.9761595019417092,0.9727537165048106,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RU30,random_unit_loss,unit_fraction,0.3,main,0.9746009191736262,0.9709724790555728,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RU40,random_unit_loss,unit_fraction,0.4,main,0.9731814824463756,0.9693502656530008,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,RU50,random_unit_loss,unit_fraction,0.5,main,0.9708430541868096,0.9666777762134968,12
+Allen Visual Behavior Neuropixels,M8,MNP-E,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.9776403640906292,0.9744461303892904,12
+CRCNS pvc-11,M0,MM-RVD R6,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.9904166666666666,0.9890476190476191,3
+CRCNS pvc-11,M0,MM-RVD R6,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9905208333333334,0.9891666666666666,3
+CRCNS pvc-11,M0,MM-RVD R6,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.98875,0.9871428571428571,3
+CRCNS pvc-11,M0,MM-RVD R6,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9893749999999999,0.9878571428571429,3
+CRCNS pvc-11,M0,MM-RVD R6,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.9864583333333333,0.9845238095238095,3
+CRCNS pvc-11,M0,MM-RVD R6,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9870833333333332,0.9852380952380951,3
+CRCNS pvc-11,M0,MM-RVD R6,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.9830208333333333,0.980595238095238,3
+CRCNS pvc-11,M0,MM-RVD R6,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9846875,0.9824999999999999,3
+CRCNS pvc-11,M0,MM-RVD R6,CLEAN,clean,none,0,main,0.9916666666666666,0.9904761904761904,3
+CRCNS pvc-11,M0,MM-RVD R6,HD05,high_information_loss,unit_fraction,0.05,main,0.984375,0.9821428571428571,3
+CRCNS pvc-11,M0,MM-RVD R6,HD10,high_information_loss,unit_fraction,0.1,main,0.9739583333333334,0.9702380952380952,3
+CRCNS pvc-11,M0,MM-RVD R6,HD20,high_information_loss,unit_fraction,0.2,main,0.9416666666666668,0.9333333333333332,3
+CRCNS pvc-11,M0,MM-RVD R6,HD30,high_information_loss,unit_fraction,0.3,main,0.9083333333333333,0.8952380952380953,3
+CRCNS pvc-11,M0,MM-RVD R6,HD40,high_information_loss,unit_fraction,0.4,main,0.8510416666666667,0.8297619047619048,3
+CRCNS pvc-11,M0,MM-RVD R6,HD50,high_information_loss,unit_fraction,0.5,main,0.775,0.7428571428571429,3
+CRCNS pvc-11,M0,MM-RVD R6,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.9802083333333332,0.9773809523809525,3
+CRCNS pvc-11,M0,MM-RVD R6,LD05,low_information_loss,unit_fraction,0.05,main,0.9916666666666666,0.9904761904761904,3
+CRCNS pvc-11,M0,MM-RVD R6,LD10,low_information_loss,unit_fraction,0.1,main,0.990625,0.9892857142857142,3
+CRCNS pvc-11,M0,MM-RVD R6,LD20,low_information_loss,unit_fraction,0.2,main,0.9885416666666668,0.986904761904762,3
+CRCNS pvc-11,M0,MM-RVD R6,LD30,low_information_loss,unit_fraction,0.3,main,0.9875000000000002,0.9857142857142858,3
+CRCNS pvc-11,M0,MM-RVD R6,LD40,low_information_loss,unit_fraction,0.4,main,0.9885416666666668,0.986904761904762,3
+CRCNS pvc-11,M0,MM-RVD R6,LD50,low_information_loss,unit_fraction,0.5,main,0.9895833333333334,0.9880952380952381,3
+CRCNS pvc-11,M0,MM-RVD R6,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.9903124999999999,0.9889285714285713,3
+CRCNS pvc-11,M0,MM-RVD R6,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9902083333333334,0.9888095238095237,3
+CRCNS pvc-11,M0,MM-RVD R6,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.9885416666666665,0.9869047619047618,3
+CRCNS pvc-11,M0,MM-RVD R6,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9890625000000001,0.9874999999999999,3
+CRCNS pvc-11,M0,MM-RVD R6,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.9870833333333332,0.9852380952380951,3
+CRCNS pvc-11,M0,MM-RVD R6,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9886458333333333,0.9870238095238095,3
+CRCNS pvc-11,M0,MM-RVD R6,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.985,0.9828571428571428,3
+CRCNS pvc-11,M0,MM-RVD R6,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9847916666666666,0.9826190476190476,3
+CRCNS pvc-11,M0,MM-RVD R6,RU05,random_unit_loss,unit_fraction,0.05,main,0.9884375,0.9867857142857143,3
+CRCNS pvc-11,M0,MM-RVD R6,RU10,random_unit_loss,unit_fraction,0.1,main,0.9877083333333333,0.9859523809523809,3
+CRCNS pvc-11,M0,MM-RVD R6,RU20,random_unit_loss,unit_fraction,0.2,main,0.9839583333333333,0.9816666666666666,3
+CRCNS pvc-11,M0,MM-RVD R6,RU30,random_unit_loss,unit_fraction,0.3,main,0.9779166666666667,0.9747619047619048,3
+CRCNS pvc-11,M0,MM-RVD R6,RU40,random_unit_loss,unit_fraction,0.4,main,0.9726041666666667,0.9686904761904761,3
+CRCNS pvc-11,M0,MM-RVD R6,RU50,random_unit_loss,unit_fraction,0.5,main,0.9620833333333333,0.9566666666666667,3
+CRCNS pvc-11,M0,MM-RVD R6,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.990625,0.9892857142857142,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.8510416666666667,0.8297619047619048,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8534375000000001,0.8325,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.8419791666666666,0.819404761904762,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8424999999999999,0.82,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.8191666666666665,0.7933333333333333,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8297395833333333,0.8054166666666666,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.7958333333333334,0.7666666666666666,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.81109375,0.784107142857143,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,CLEAN,clean,none,0,main,0.8619791666666666,0.8422619047619048,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,HD05,high_information_loss,unit_fraction,0.05,main,0.7708333333333334,0.7380952380952381,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,HD10,high_information_loss,unit_fraction,0.1,main,0.7020833333333334,0.6595238095238095,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,HD20,high_information_loss,unit_fraction,0.2,main,0.5989583333333334,0.5416666666666666,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,HD30,high_information_loss,unit_fraction,0.3,main,0.4901041666666666,0.4172619047619048,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,HD40,high_information_loss,unit_fraction,0.4,main,0.3755208333333333,0.2863095238095238,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,HD50,high_information_loss,unit_fraction,0.5,main,0.28020833333333334,0.1773809523809524,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.8302083333333333,0.8059523809523809,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,LD05,low_information_loss,unit_fraction,0.05,main,0.8671875,0.8482142857142857,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,LD10,low_information_loss,unit_fraction,0.1,main,0.8718750000000001,0.8535714285714285,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,LD20,low_information_loss,unit_fraction,0.2,main,0.8802083333333334,0.8630952380952381,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,LD30,low_information_loss,unit_fraction,0.3,main,0.8817708333333334,0.8648809523809523,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,LD40,low_information_loss,unit_fraction,0.4,main,0.8713541666666668,0.8529761904761904,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,LD50,low_information_loss,unit_fraction,0.5,main,0.859375,0.8392857142857143,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.8472395833333334,0.8254166666666666,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8532812500000001,0.8323214285714285,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.8378645833333334,0.8147023809523809,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8445312500000001,0.8223214285714286,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.8191666666666667,0.7933333333333333,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8237500000000001,0.7985714285714286,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.7981250000000001,0.7692857142857142,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8090104166666666,0.7817261904761904,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RU05,random_unit_loss,unit_fraction,0.05,main,0.8424479166666666,0.8199404761904763,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RU10,random_unit_loss,unit_fraction,0.1,main,0.8156249999999999,0.7892857142857143,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RU20,random_unit_loss,unit_fraction,0.2,main,0.7801041666666667,0.7486904761904762,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RU30,random_unit_loss,unit_fraction,0.3,main,0.73453125,0.6966071428571429,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RU40,random_unit_loss,unit_fraction,0.4,main,0.6819270833333334,0.6364880952380952,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,RU50,random_unit_loss,unit_fraction,0.5,main,0.6281249999999999,0.5750000000000001,3
+CRCNS pvc-11,M2,Mean-rate Linear SVM,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.8527777777777777,0.8317460317460318,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.9699479166666668,0.9656547619047618,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9710416666666667,0.9669047619047619,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.9686979166666667,0.9642261904761904,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9681770833333333,0.9636309523809524,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.9656250000000001,0.9607142857142857,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9673437500000001,0.9626785714285715,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.96046875,0.9548214285714286,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9631250000000001,0.9578571428571429,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,CLEAN,clean,none,0,main,0.9708333333333332,0.9666666666666667,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,HD05,high_information_loss,unit_fraction,0.05,main,0.9588541666666667,0.9529761904761905,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,HD10,high_information_loss,unit_fraction,0.1,main,0.94375,0.9357142857142856,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,HD20,high_information_loss,unit_fraction,0.2,main,0.890625,0.875,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,HD30,high_information_loss,unit_fraction,0.3,main,0.8359375,0.8124999999999999,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,HD40,high_information_loss,unit_fraction,0.4,main,0.7390625000000001,0.7017857142857142,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,HD50,high_information_loss,unit_fraction,0.5,main,0.5833333333333334,0.5238095238095238,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.9572916666666668,0.9511904761904763,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,LD05,low_information_loss,unit_fraction,0.05,main,0.9713541666666666,0.9672619047619048,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,LD10,low_information_loss,unit_fraction,0.1,main,0.9703125,0.9660714285714286,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,LD20,low_information_loss,unit_fraction,0.2,main,0.9708333333333333,0.9666666666666667,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,LD30,low_information_loss,unit_fraction,0.3,main,0.9729166666666668,0.969047619047619,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,LD40,low_information_loss,unit_fraction,0.4,main,0.9739583333333334,0.9702380952380952,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,LD50,low_information_loss,unit_fraction,0.5,main,0.9697916666666666,0.9654761904761905,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.9690625,0.964642857142857,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9696875,0.9653571428571427,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.9666666666666668,0.9619047619047619,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9674999999999999,0.9628571428571427,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.9646875,0.9596428571428571,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9664583333333333,0.9616666666666666,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.9624999999999999,0.9571428571428572,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9648958333333334,0.9598809523809524,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RU05,random_unit_loss,unit_fraction,0.05,main,0.96890625,0.9644642857142857,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RU10,random_unit_loss,unit_fraction,0.1,main,0.9666145833333334,0.961845238095238,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RU20,random_unit_loss,unit_fraction,0.2,main,0.9617187499999998,0.9562499999999999,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RU30,random_unit_loss,unit_fraction,0.3,main,0.9517187500000001,0.9448214285714286,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RU40,random_unit_loss,unit_fraction,0.4,main,0.9374479166666667,0.9285119047619048,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,RU50,random_unit_loss,unit_fraction,0.5,main,0.9115624999999999,0.8989285714285714,3
+CRCNS pvc-11,M3,SVD64 + Logistic Regression,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.9699652777777777,0.9656746031746032,3
+CRCNS pvc-11,M4,CEBRA,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.9917916666666665,0.9906190476190475,3
+CRCNS pvc-11,M4,CEBRA,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9920625,0.9909285714285714,3
+CRCNS pvc-11,M4,CEBRA,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.9913958333333333,0.9901666666666666,3
+CRCNS pvc-11,M4,CEBRA,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.991625,0.9904285714285713,3
+CRCNS pvc-11,M4,CEBRA,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.9896666666666666,0.9881904761904763,3
+CRCNS pvc-11,M4,CEBRA,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9902291666666666,0.9888333333333333,3
+CRCNS pvc-11,M4,CEBRA,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.9852083333333334,0.9830952380952381,3
+CRCNS pvc-11,M4,CEBRA,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9879375,0.9862142857142858,3
+CRCNS pvc-11,M4,CEBRA,CLEAN,clean,none,0,main,0.9920833333333333,0.9909523809523809,3
+CRCNS pvc-11,M4,CEBRA,HD05,high_information_loss,unit_fraction,0.05,main,0.9831249999999999,0.9807142857142858,3
+CRCNS pvc-11,M4,CEBRA,HD10,high_information_loss,unit_fraction,0.1,main,0.9566666666666667,0.9504761904761905,3
+CRCNS pvc-11,M4,CEBRA,HD20,high_information_loss,unit_fraction,0.2,main,0.8352083333333332,0.8116666666666666,3
+CRCNS pvc-11,M4,CEBRA,HD30,high_information_loss,unit_fraction,0.3,main,0.6668750000000001,0.6192857142857143,3
+CRCNS pvc-11,M4,CEBRA,HD40,high_information_loss,unit_fraction,0.4,main,0.488125,0.415,3
+CRCNS pvc-11,M4,CEBRA,HD50,high_information_loss,unit_fraction,0.5,main,0.30020833333333335,0.20023809523809524,3
+CRCNS pvc-11,M4,CEBRA,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.9839583333333334,0.9816666666666666,3
+CRCNS pvc-11,M4,CEBRA,LD05,low_information_loss,unit_fraction,0.05,main,0.9916666666666667,0.9904761904761905,3
+CRCNS pvc-11,M4,CEBRA,LD10,low_information_loss,unit_fraction,0.1,main,0.991875,0.9907142857142857,3
+CRCNS pvc-11,M4,CEBRA,LD20,low_information_loss,unit_fraction,0.2,main,0.9914583333333334,0.9902380952380954,3
+CRCNS pvc-11,M4,CEBRA,LD30,low_information_loss,unit_fraction,0.3,main,0.9910416666666667,0.9897619047619047,3
+CRCNS pvc-11,M4,CEBRA,LD40,low_information_loss,unit_fraction,0.4,main,0.990625,0.9892857142857143,3
+CRCNS pvc-11,M4,CEBRA,LD50,low_information_loss,unit_fraction,0.5,main,0.990625,0.9892857142857143,3
+CRCNS pvc-11,M4,CEBRA,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.992375,0.9912857142857142,3
+CRCNS pvc-11,M4,CEBRA,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9921458333333333,0.9910238095238095,3
+CRCNS pvc-11,M4,CEBRA,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.9904791666666668,0.9891190476190476,3
+CRCNS pvc-11,M4,CEBRA,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9911666666666666,0.989904761904762,3
+CRCNS pvc-11,M4,CEBRA,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.9883333333333334,0.9866666666666667,3
+CRCNS pvc-11,M4,CEBRA,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9896458333333333,0.9881666666666667,3
+CRCNS pvc-11,M4,CEBRA,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.9857291666666667,0.9836904761904762,3
+CRCNS pvc-11,M4,CEBRA,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9873958333333333,0.9855952380952381,3
+CRCNS pvc-11,M4,CEBRA,RU05,random_unit_loss,unit_fraction,0.05,main,0.9917083333333334,0.9905238095238095,3
+CRCNS pvc-11,M4,CEBRA,RU10,random_unit_loss,unit_fraction,0.1,main,0.9893958333333334,0.9878809523809524,3
+CRCNS pvc-11,M4,CEBRA,RU20,random_unit_loss,unit_fraction,0.2,main,0.9850208333333335,0.9828809523809524,3
+CRCNS pvc-11,M4,CEBRA,RU30,random_unit_loss,unit_fraction,0.3,main,0.9707500000000001,0.9665714285714286,3
+CRCNS pvc-11,M4,CEBRA,RU40,random_unit_loss,unit_fraction,0.4,main,0.9459583333333333,0.9382380952380952,3
+CRCNS pvc-11,M4,CEBRA,RU50,random_unit_loss,unit_fraction,0.5,main,0.89125,0.8757142857142858,3
+CRCNS pvc-11,M4,CEBRA,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.9921527777777778,0.991031746031746,3
+CRCNS pvc-11,M5,GRU-D,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.22916666666666666,0.11904761904761903,3
+CRCNS pvc-11,M5,GRU-D,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.20775,0.09457142857142857,3
+CRCNS pvc-11,M5,GRU-D,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.20052083333333334,0.0863095238095238,3
+CRCNS pvc-11,M5,GRU-D,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.17931249999999999,0.062071428571428576,3
+CRCNS pvc-11,M5,GRU-D,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.15908333333333333,0.038952380952380954,3
+CRCNS pvc-11,M5,GRU-D,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.17464583333333336,0.05673809523809523,3
+CRCNS pvc-11,M5,GRU-D,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.1536875,0.032785714285714286,3
+CRCNS pvc-11,M5,GRU-D,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.14685416666666665,0.024976190476190475,3
+CRCNS pvc-11,M5,GRU-D,CLEAN,clean,none,0,main,0.9566666666666667,0.9504761904761905,3
+CRCNS pvc-11,M5,GRU-D,HD05,high_information_loss,unit_fraction,0.05,main,0.17208333333333334,0.05380952380952381,3
+CRCNS pvc-11,M5,GRU-D,HD10,high_information_loss,unit_fraction,0.1,main,0.16125,0.04142857142857142,3
+CRCNS pvc-11,M5,GRU-D,HD20,high_information_loss,unit_fraction,0.2,main,0.138125,0.015,3
+CRCNS pvc-11,M5,GRU-D,HD30,high_information_loss,unit_fraction,0.3,main,0.125,0.0,3
+CRCNS pvc-11,M5,GRU-D,HD40,high_information_loss,unit_fraction,0.4,main,0.125625,0.0007142857142857149,3
+CRCNS pvc-11,M5,GRU-D,HD50,high_information_loss,unit_fraction,0.5,main,0.12541666666666665,0.0004761904761904777,3
+CRCNS pvc-11,M5,GRU-D,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.170625,0.05214285714285714,3
+CRCNS pvc-11,M5,GRU-D,LD05,low_information_loss,unit_fraction,0.05,main,0.23708333333333334,0.1280952380952381,3
+CRCNS pvc-11,M5,GRU-D,LD10,low_information_loss,unit_fraction,0.1,main,0.16125,0.04142857142857143,3
+CRCNS pvc-11,M5,GRU-D,LD20,low_information_loss,unit_fraction,0.2,main,0.15333333333333335,0.03238095238095238,3
+CRCNS pvc-11,M5,GRU-D,LD30,low_information_loss,unit_fraction,0.3,main,0.14541666666666667,0.023333333333333334,3
+CRCNS pvc-11,M5,GRU-D,LD40,low_information_loss,unit_fraction,0.4,main,0.13062500000000002,0.006428571428571429,3
+CRCNS pvc-11,M5,GRU-D,LD50,low_information_loss,unit_fraction,0.5,main,0.12645833333333334,0.001666666666666665,3
+CRCNS pvc-11,M5,GRU-D,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.23047916666666665,0.12054761904761906,3
+CRCNS pvc-11,M5,GRU-D,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.232625,0.123,3
+CRCNS pvc-11,M5,GRU-D,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.19358333333333333,0.07838095238095238,3
+CRCNS pvc-11,M5,GRU-D,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.19060416666666666,0.07497619047619047,3
+CRCNS pvc-11,M5,GRU-D,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.1738125,0.05578571428571429,3
+CRCNS pvc-11,M5,GRU-D,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.16535416666666666,0.046119047619047615,3
+CRCNS pvc-11,M5,GRU-D,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.16354166666666667,0.04404761904761905,3
+CRCNS pvc-11,M5,GRU-D,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.1550625,0.03435714285714286,3
+CRCNS pvc-11,M5,GRU-D,RU05,random_unit_loss,unit_fraction,0.05,main,0.18095833333333333,0.06395238095238095,3
+CRCNS pvc-11,M5,GRU-D,RU10,random_unit_loss,unit_fraction,0.1,main,0.17131249999999998,0.05292857142857143,3
+CRCNS pvc-11,M5,GRU-D,RU20,random_unit_loss,unit_fraction,0.2,main,0.150375,0.028999999999999998,3
+CRCNS pvc-11,M5,GRU-D,RU30,random_unit_loss,unit_fraction,0.3,main,0.1401875,0.01735714285714286,3
+CRCNS pvc-11,M5,GRU-D,RU40,random_unit_loss,unit_fraction,0.4,main,0.14260416666666667,0.02011904761904762,3
+CRCNS pvc-11,M5,GRU-D,RU50,random_unit_loss,unit_fraction,0.5,main,0.13316666666666666,0.009333333333333332,3
+CRCNS pvc-11,M5,GRU-D,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.26298611111111114,0.1576984126984127,3
+CRCNS pvc-11,M6,TCN,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.8795208333333333,0.8623095238095239,3
+CRCNS pvc-11,M6,TCN,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8847708333333334,0.8683095238095238,3
+CRCNS pvc-11,M6,TCN,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.8725208333333333,0.8543095238095239,3
+CRCNS pvc-11,M6,TCN,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8543541666666666,0.8335476190476191,3
+CRCNS pvc-11,M6,TCN,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.8228333333333334,0.7975238095238094,3
+CRCNS pvc-11,M6,TCN,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8326250000000001,0.8087142857142857,3
+CRCNS pvc-11,M6,TCN,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.7741458333333333,0.7418809523809524,3
+CRCNS pvc-11,M6,TCN,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.7959166666666667,0.7667619047619048,3
+CRCNS pvc-11,M6,TCN,CLEAN,clean,none,0,main,0.8995833333333333,0.8852380952380953,3
+CRCNS pvc-11,M6,TCN,HD05,high_information_loss,unit_fraction,0.05,main,0.671875,0.625,3
+CRCNS pvc-11,M6,TCN,HD10,high_information_loss,unit_fraction,0.1,main,0.6152083333333334,0.5602380952380953,3
+CRCNS pvc-11,M6,TCN,HD20,high_information_loss,unit_fraction,0.2,main,0.45375000000000004,0.3757142857142857,3
+CRCNS pvc-11,M6,TCN,HD30,high_information_loss,unit_fraction,0.3,main,0.30145833333333333,0.20166666666666666,3
+CRCNS pvc-11,M6,TCN,HD40,high_information_loss,unit_fraction,0.4,main,0.27458333333333335,0.17095238095238097,3
+CRCNS pvc-11,M6,TCN,HD50,high_information_loss,unit_fraction,0.5,main,0.2025,0.08857142857142858,3
+CRCNS pvc-11,M6,TCN,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.8372916666666667,0.814047619047619,3
+CRCNS pvc-11,M6,TCN,LD05,low_information_loss,unit_fraction,0.05,main,0.8970833333333333,0.8823809523809524,3
+CRCNS pvc-11,M6,TCN,LD10,low_information_loss,unit_fraction,0.1,main,0.8962499999999999,0.8814285714285713,3
+CRCNS pvc-11,M6,TCN,LD20,low_information_loss,unit_fraction,0.2,main,0.85875,0.8385714285714286,3
+CRCNS pvc-11,M6,TCN,LD30,low_information_loss,unit_fraction,0.3,main,0.8581249999999999,0.837857142857143,3
+CRCNS pvc-11,M6,TCN,LD40,low_information_loss,unit_fraction,0.4,main,0.8335416666666667,0.8097619047619048,3
+CRCNS pvc-11,M6,TCN,LD50,low_information_loss,unit_fraction,0.5,main,0.7958333333333334,0.7666666666666666,3
+CRCNS pvc-11,M6,TCN,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.8711458333333333,0.8527380952380952,3
+CRCNS pvc-11,M6,TCN,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8847708333333334,0.8683095238095239,3
+CRCNS pvc-11,M6,TCN,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.8473541666666667,0.8255476190476191,3
+CRCNS pvc-11,M6,TCN,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.876,0.8582857142857144,3
+CRCNS pvc-11,M6,TCN,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.7969166666666667,0.767904761904762,3
+CRCNS pvc-11,M6,TCN,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.839125,0.8161428571428572,3
+CRCNS pvc-11,M6,TCN,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.7600416666666666,0.7257619047619048,3
+CRCNS pvc-11,M6,TCN,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8132708333333333,0.786595238095238,3
+CRCNS pvc-11,M6,TCN,RU05,random_unit_loss,unit_fraction,0.05,main,0.8637499999999999,0.8442857142857143,3
+CRCNS pvc-11,M6,TCN,RU10,random_unit_loss,unit_fraction,0.1,main,0.8308125000000001,0.8066428571428571,3
+CRCNS pvc-11,M6,TCN,RU20,random_unit_loss,unit_fraction,0.2,main,0.7910833333333334,0.7612380952380953,3
+CRCNS pvc-11,M6,TCN,RU30,random_unit_loss,unit_fraction,0.3,main,0.727875,0.6890000000000001,3
+CRCNS pvc-11,M6,TCN,RU40,random_unit_loss,unit_fraction,0.4,main,0.6647083333333333,0.6168095238095238,3
+CRCNS pvc-11,M6,TCN,RU50,random_unit_loss,unit_fraction,0.5,main,0.5951458333333334,0.5373095238095238,3
+CRCNS pvc-11,M6,TCN,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.8925000000000001,0.8771428571428572,3
+CRCNS pvc-11,M7,Position-aware Transformer,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.9374166666666667,0.9284761904761906,3
+CRCNS pvc-11,M7,Position-aware Transformer,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9432291666666667,0.9351190476190476,3
+CRCNS pvc-11,M7,Position-aware Transformer,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.9255625,0.9149285714285714,3
+CRCNS pvc-11,M7,Position-aware Transformer,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.922,0.9108571428571429,3
+CRCNS pvc-11,M7,Position-aware Transformer,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.8893749999999999,0.8735714285714286,3
+CRCNS pvc-11,M7,Position-aware Transformer,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8959166666666666,0.8810476190476191,3
+CRCNS pvc-11,M7,Position-aware Transformer,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.8308333333333334,0.8066666666666666,3
+CRCNS pvc-11,M7,Position-aware Transformer,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8634583333333333,0.843952380952381,3
+CRCNS pvc-11,M7,Position-aware Transformer,CLEAN,clean,none,0,main,0.9529166666666665,0.9461904761904764,3
+CRCNS pvc-11,M7,Position-aware Transformer,HD05,high_information_loss,unit_fraction,0.05,main,0.8104166666666667,0.7833333333333333,3
+CRCNS pvc-11,M7,Position-aware Transformer,HD10,high_information_loss,unit_fraction,0.1,main,0.7416666666666667,0.7047619047619048,3
+CRCNS pvc-11,M7,Position-aware Transformer,HD20,high_information_loss,unit_fraction,0.2,main,0.5722916666666668,0.5111904761904763,3
+CRCNS pvc-11,M7,Position-aware Transformer,HD30,high_information_loss,unit_fraction,0.3,main,0.37833333333333335,0.2895238095238095,3
+CRCNS pvc-11,M7,Position-aware Transformer,HD40,high_information_loss,unit_fraction,0.4,main,0.30145833333333333,0.20166666666666666,3
+CRCNS pvc-11,M7,Position-aware Transformer,HD50,high_information_loss,unit_fraction,0.5,main,0.22624999999999998,0.11571428571428571,3
+CRCNS pvc-11,M7,Position-aware Transformer,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.865625,0.8464285714285714,3
+CRCNS pvc-11,M7,Position-aware Transformer,LD05,low_information_loss,unit_fraction,0.05,main,0.9439583333333333,0.935952380952381,3
+CRCNS pvc-11,M7,Position-aware Transformer,LD10,low_information_loss,unit_fraction,0.1,main,0.9347916666666668,0.9254761904761905,3
+CRCNS pvc-11,M7,Position-aware Transformer,LD20,low_information_loss,unit_fraction,0.2,main,0.8802083333333334,0.8630952380952381,3
+CRCNS pvc-11,M7,Position-aware Transformer,LD30,low_information_loss,unit_fraction,0.3,main,0.8643749999999999,0.8450000000000001,3
+CRCNS pvc-11,M7,Position-aware Transformer,LD40,low_information_loss,unit_fraction,0.4,main,0.8229166666666666,0.7976190476190476,3
+CRCNS pvc-11,M7,Position-aware Transformer,LD50,low_information_loss,unit_fraction,0.5,main,0.7749999999999999,0.7428571428571429,3
+CRCNS pvc-11,M7,Position-aware Transformer,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.9365833333333334,0.9275238095238096,3
+CRCNS pvc-11,M7,Position-aware Transformer,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9432708333333334,0.9351666666666668,3
+CRCNS pvc-11,M7,Position-aware Transformer,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.913625,0.9012857142857142,3
+CRCNS pvc-11,M7,Position-aware Transformer,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9303125,0.9203571428571428,3
+CRCNS pvc-11,M7,Position-aware Transformer,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.8726458333333333,0.854452380952381,3
+CRCNS pvc-11,M7,Position-aware Transformer,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9030833333333333,0.8892380952380953,3
+CRCNS pvc-11,M7,Position-aware Transformer,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.8328125000000001,0.8089285714285714,3
+CRCNS pvc-11,M7,Position-aware Transformer,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.8627916666666667,0.8431904761904763,3
+CRCNS pvc-11,M7,Position-aware Transformer,RU05,random_unit_loss,unit_fraction,0.05,main,0.9254166666666667,0.9147619047619048,3
+CRCNS pvc-11,M7,Position-aware Transformer,RU10,random_unit_loss,unit_fraction,0.1,main,0.8900208333333334,0.8743095238095239,3
+CRCNS pvc-11,M7,Position-aware Transformer,RU20,random_unit_loss,unit_fraction,0.2,main,0.8408958333333333,0.8181666666666666,3
+CRCNS pvc-11,M7,Position-aware Transformer,RU30,random_unit_loss,unit_fraction,0.3,main,0.7576666666666666,0.723047619047619,3
+CRCNS pvc-11,M7,Position-aware Transformer,RU40,random_unit_loss,unit_fraction,0.4,main,0.6575416666666666,0.6086190476190476,3
+CRCNS pvc-11,M7,Position-aware Transformer,RU50,random_unit_loss,unit_fraction,0.5,main,0.5497916666666667,0.48547619047619045,3
+CRCNS pvc-11,M7,Position-aware Transformer,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.9438888888888889,0.9358730158730159,3
+CRCNS pvc-11,M8,MNP-E,AC_P025,adjacent_channel_loss,occupied_channel_fraction,0.025,main,0.9632291666666667,0.9579761904761904,3
+CRCNS pvc-11,M8,MNP-E,AC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9631250000000001,0.9578571428571429,3
+CRCNS pvc-11,M8,MNP-E,AC_P05,adjacent_channel_loss,occupied_channel_fraction,0.05,main,0.9616666666666666,0.9561904761904763,3
+CRCNS pvc-11,M8,MNP-E,AC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9620833333333333,0.9566666666666667,3
+CRCNS pvc-11,M8,MNP-E,AC_P10,adjacent_channel_loss,occupied_channel_fraction,0.1,main,0.9579166666666667,0.9519047619047619,3
+CRCNS pvc-11,M8,MNP-E,AC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9584375,0.9525,3
+CRCNS pvc-11,M8,MNP-E,AC_P15,adjacent_channel_loss,occupied_channel_fraction,0.15,main,0.9521875,0.9453571428571429,3
+CRCNS pvc-11,M8,MNP-E,AC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.953125,0.9464285714285715,3
+CRCNS pvc-11,M8,MNP-E,CLEAN,clean,none,0,main,0.9614583333333333,0.955952380952381,3
+CRCNS pvc-11,M8,MNP-E,HD05,high_information_loss,unit_fraction,0.05,main,0.9375,0.9285714285714285,3
+CRCNS pvc-11,M8,MNP-E,HD10,high_information_loss,unit_fraction,0.1,main,0.921875,0.9107142857142859,3
+CRCNS pvc-11,M8,MNP-E,HD20,high_information_loss,unit_fraction,0.2,main,0.8770833333333333,0.8595238095238096,3
+CRCNS pvc-11,M8,MNP-E,HD30,high_information_loss,unit_fraction,0.3,main,0.834375,0.8107142857142856,3
+CRCNS pvc-11,M8,MNP-E,HD40,high_information_loss,unit_fraction,0.4,main,0.7729166666666667,0.7404761904761905,3
+CRCNS pvc-11,M8,MNP-E,HD50,high_information_loss,unit_fraction,0.5,main,0.7072916666666668,0.6654761904761904,3
+CRCNS pvc-11,M8,MNP-E,HSNR10,high_snr_unit_loss,unit_fraction,0.1,supplementary,0.9489583333333332,0.9416666666666668,3
+CRCNS pvc-11,M8,MNP-E,LD05,low_information_loss,unit_fraction,0.05,main,0.959375,0.9535714285714286,3
+CRCNS pvc-11,M8,MNP-E,LD10,low_information_loss,unit_fraction,0.1,main,0.9625,0.9571428571428572,3
+CRCNS pvc-11,M8,MNP-E,LD20,low_information_loss,unit_fraction,0.2,main,0.959375,0.9535714285714286,3
+CRCNS pvc-11,M8,MNP-E,LD30,low_information_loss,unit_fraction,0.3,main,0.9635416666666666,0.9583333333333334,3
+CRCNS pvc-11,M8,MNP-E,LD40,low_information_loss,unit_fraction,0.4,main,0.9656250000000001,0.9607142857142857,3
+CRCNS pvc-11,M8,MNP-E,LD50,low_information_loss,unit_fraction,0.5,main,0.9697916666666666,0.9654761904761905,3
+CRCNS pvc-11,M8,MNP-E,RC_P025,random_channel_loss,occupied_channel_fraction,0.025,main,0.9622916666666667,0.9569047619047618,3
+CRCNS pvc-11,M8,MNP-E,RC_P025_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9626041666666666,0.9572619047619048,3
+CRCNS pvc-11,M8,MNP-E,RC_P05,random_channel_loss,occupied_channel_fraction,0.05,main,0.9626041666666666,0.9572619047619048,3
+CRCNS pvc-11,M8,MNP-E,RC_P05_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9621875000000001,0.9567857142857142,3
+CRCNS pvc-11,M8,MNP-E,RC_P10,random_channel_loss,occupied_channel_fraction,0.1,main,0.9596874999999999,0.9539285714285715,3
+CRCNS pvc-11,M8,MNP-E,RC_P10_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9590624999999999,0.9532142857142857,3
+CRCNS pvc-11,M8,MNP-E,RC_P15,random_channel_loss,occupied_channel_fraction,0.15,main,0.9560416666666667,0.9497619047619047,3
+CRCNS pvc-11,M8,MNP-E,RC_P15_RM,channel_matched_random_unit,matched_missing_unit_count,exact count matched to parent,main_control,0.9551041666666666,0.9486904761904761,3
+CRCNS pvc-11,M8,MNP-E,RU05,random_unit_loss,unit_fraction,0.05,main,0.9610416666666666,0.9554761904761905,3
+CRCNS pvc-11,M8,MNP-E,RU10,random_unit_loss,unit_fraction,0.1,main,0.9583333333333334,0.9523809523809524,3
+CRCNS pvc-11,M8,MNP-E,RU20,random_unit_loss,unit_fraction,0.2,main,0.9547916666666666,0.9483333333333334,3
+CRCNS pvc-11,M8,MNP-E,RU30,random_unit_loss,unit_fraction,0.3,main,0.9457291666666666,0.9379761904761904,3
+CRCNS pvc-11,M8,MNP-E,RU40,random_unit_loss,unit_fraction,0.4,main,0.9385416666666666,0.9297619047619047,3
+CRCNS pvc-11,M8,MNP-E,RU50,random_unit_loss,unit_fraction,0.5,main,0.9209375,0.9096428571428571,3
+CRCNS pvc-11,M8,MNP-E,SC1_ANCHOR,single_channel_anchor,single_occupied_channel,one occupied physical channel,supplementary,0.9614583333333333,0.955952380952381,3
