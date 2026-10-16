@@ -1,5 +1,7 @@
 # File Manifest
 
+> The table below documents the historical September 2026 visual-only public export. It is retained for provenance; its R4/A11/S1 source data and figure numbering do not define the current three-dataset manuscript. Current-study result tables and the manuscript are not in this repository update.
+
 | Original project file | Repository path | Purpose |
 |---|---|---|
 | `<PROJECT_ROOT>\scripts\run_global_authentic_baseline_smoke_a5.py` | `scripts/main_experiment/run_global_authentic_baseline_smoke_a5.py` | reproducibility script |

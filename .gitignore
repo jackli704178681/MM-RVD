@@ -11,6 +11,7 @@ env/
 Thumbs.db
 *.doc
 *.docx
+*.pptx
 *.pdf
 data/
 raw_data/
@@ -36,4 +37,14 @@ secrets*
 *.pkl
 *.pickle
 *.joblib
+*.mat
+*.nwb
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.sqlite3
+*.zip
+checkpoints/
+outputs/
 *manuscript*
