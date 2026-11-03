@@ -40,6 +40,6 @@ The aggregate tables can be inspected without downloading neural responses. Raw-
 
 ## Authors and citation
 
-Bo Li, Qing-Zhi He, Jun-Cai Zhu, Xiao-Ke Niu, Peng Wu, Ru-Peng Zhang, Zheng Xu, Jiang-Tao Wang, and Zhi-Zhong Wang. School of Electrical and Information Engineering, Zhengzhou University, Zhengzhou, China.
+Bo Li, Qing-Zhi He, Jiang-Tao Wang, and Zhi-Zhong Wang. School of Electrical and Information Engineering, Zhengzhou University, Zhengzhou, China.
 
 Software citation metadata is in [`CITATION.cff`](CITATION.cff).
