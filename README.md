@@ -1,6 +1,6 @@
 # MM-RVD
 
-**Mask-Matched Neural Population Decoding under Recording-Unit Missingness**
+**Mask-Matched Reference Reconstruction for Neural Population Decoding under Recording-Unit Missingness**
 
 MM-RVD decodes eight task classes when some *sorted recording units* are unavailable for an entire 0-0.5 s trial window. The method uses observed-unit temporal statistics, a fixed FIT-derived PCA coordinate system, and the same observation mask for the query and its FIT training reference. Class prototypes and a shared covariance/precision estimate are constructed in that matched space. It does not reconstruct missing spikes or refit PCA for each mask.
 
